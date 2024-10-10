@@ -1,0 +1,12 @@
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    min-width: 500px;
+    box-shadow: 0 0 20px;
+}
+.styled-table thead tr {
+    background-color:#00a6ff;
+    color:#ffffff;
+    text-align:middle;
